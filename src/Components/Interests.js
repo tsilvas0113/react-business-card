@@ -2,7 +2,10 @@ import React from "react";
 
 function Interests () {
     return (
-        <h1>This is the Interests Section</h1>
+        <div className="inter-container">
+            <div className="inter-head">Interests</div>
+            <div className="inter-text">Food expert. Movie scholar. Gamer. Internet fanatic. Nugget buff. Entrepreneur. Coding geek. Pop culture ninja. Sport fanatic.</div>
+        </div>
     )
 }
 
