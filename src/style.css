@@ -157,4 +157,21 @@ body {
     margin-top: 5px;
     margin-left: 36px;
     margin-right: 34px;
+    margin-bottom: 24px;
+}
+
+.footer-container {
+    background-color: #161619;
+    width: 317px;
+    height: 64px;
+    border-radius: 0 0 10px 10px;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    align-items: center;
+}
+
+.icon {
+    width: 25px;
+    height: 25px;
 }
