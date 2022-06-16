@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-business-card/static/css/main.8dd813c8.css",
+    "main.js": "/react-business-card/static/js/main.2d6a4447.js",
+    "static/media/113.png": "/react-business-card/static/media/113.bdcdebf29a9842536f96.png",
+    "index.html": "/react-business-card/index.html",
+    "main.8dd813c8.css.map": "/react-business-card/static/css/main.8dd813c8.css.map",
+    "main.2d6a4447.js.map": "/react-business-card/static/js/main.2d6a4447.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dd813c8.css",
+    "static/js/main.2d6a4447.js"
+  ]
+}
